@@ -1,0 +1,3 @@
+[submodule "cypress-shared"]
+	path = cypress-shared
+	url = https://github.com/davidassertqa/cypress-shared.git
